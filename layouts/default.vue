@@ -1,7 +1,6 @@
 <template>
   <section
-    class="hero is-medium is-bold is-fullheight"
-    :class="darkMode"
+    class="hero is-medium is-bold is-fullheight is-dark"
   >
     <div class="hero-head">
       <nav class="navbar">
@@ -11,7 +10,7 @@
               to="/"
               class="navbar-item main-link"
             >
-              <span @click="isDark = !isDark">
+              <span>
                 renzelmanlapaz.com
               </span>
             </nuxt-link>
@@ -68,13 +67,7 @@
 export default {
   data() {
     return {
-      showNav: false,
-      isDark: false
-    }
-  },
-  computed: {
-    darkMode() {
-      return this.isDark ? 'is-dark' : 'is-light'
+      showNav: false
     }
   }
 }
