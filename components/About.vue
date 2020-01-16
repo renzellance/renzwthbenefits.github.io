@@ -8,7 +8,7 @@
         <div class="columns">
           <div class="column is-half">
             <p class="subtitle">
-              I'm Renzel Manlapaz, I have been working for 2 years now as a <strong>Full-Stack Engineer</strong> for
+              Hi, I'm Renzel Manlapaz, I have been working for 2 years now as a <strong>Full-Stack Engineer</strong> for
               <a title="Import Genius website" href="https://www.importgenius.com">Import Genius</a> while based in the Philippines.
             </p>
             <p class="subtitle">
@@ -23,7 +23,7 @@
               class="button is-inverted is-outlined"
               @click="$scrollTo('#contact-section')"
             >
-              Let's connect!
+              Connect with me
             </a>
           </div>
           <div class="column is-half">

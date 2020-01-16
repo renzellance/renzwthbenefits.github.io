@@ -45,6 +45,23 @@
 <script>
 import VueWordCloud from 'vuewordcloud'
 
+function shuffleArray(array) {
+  let currentIndex = array.length
+  let temporaryValue
+  let randomIndex
+
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex)
+    currentIndex -= 1
+
+    temporaryValue = array[currentIndex]
+    array[currentIndex] = array[randomIndex]
+    array[randomIndex] = temporaryValue
+  }
+
+  return array
+}
+
 export default {
   name: 'Skills',
   components: {
@@ -52,7 +69,7 @@ export default {
   },
   data() {
     return {
-      availableColors: [
+      availableColors: shuffleArray([
         'Salmon',
         'Tomato',
         'Moccasin',
@@ -63,8 +80,8 @@ export default {
         'PaleTurquoise',
         'MediumSeaGreen',
         'PaleGoldenrod'
-      ],
-      words: [
+      ]),
+      words: shuffleArray([
         ['vue', 10],
         ['nuxt', 10],
         ['javascript', 10],
@@ -82,7 +99,7 @@ export default {
         ['python', 4],
         ['mongodb', 4],
         ['TDD', 4]
-      ],
+      ]),
       colors: () => this.availableColors[Math.floor(Math.random() * 10)]
     }
   }
