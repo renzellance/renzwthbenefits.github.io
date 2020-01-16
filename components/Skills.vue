@@ -15,7 +15,7 @@
           <div class="column is-half">
             <p class="subtitle">
               Over time, I've had the opportunity to tackle all sorts of programming languages, practices, and technologies.
-              I've created a word cloud to express all of this, where the biggest words are the ones I'm most confident in.
+              I've created a word cloud to showcase most of the relevant ones I know, with the biggest being the ones I'm most confident in.
             </p>
             <p class="subtitle">
               I refrained from creating a fancy shmancy animated star or percentage skill rating component for this because it's

@@ -5,10 +5,10 @@
         <h1 class="title">
           Projects
         </h1>
-        <div class="columns">
+        <div class="columns is-vcentered is-centered">
           <div class="column is-half">
             <h2 class="subtitle">
-              This is the projects page.
+              This is the projects page. Need to fill this out. This is still a WIP.
             </h2>
             <a
               class="button is-inverted is-outlined"
