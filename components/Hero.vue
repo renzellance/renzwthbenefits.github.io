@@ -1,27 +1,20 @@
 <template>
-  <section class="hero is-medium is-bold is-fullheight is-dark">
+  <section id="hero-section" class="hero is-medium is-bold is-fullheight is-dark">
     <div class="hero-body">
       <div class="container">
-        <div class="columns">
+        <div class="columns is-vcentered is-centered">
           <div class="column is-half">
             <h1 class="title">
               Hi, I'm Renzel.
             </h1>
             <h2 class="subtitle">
-              Full Stack Developer
+              I'm a full-stack developer. Nice to meet you.
             </h2>
             <a
               class="button is-dark is-inverted is-outlined"
-              href="/resume.pdf"
-              download="Renzel Manlapaz Resume"
-            >
-              DOWNLOAD RESUME
+              @click="$scrollTo('#projects-section')">
+              Learn more about me
             </a>
-          </div>
-          <div class="column is-half">
-            <figure class="image is-3by2">
-              <img src="/renzel.jpg">
-            </figure>
           </div>
         </div>
       </div>

@@ -1,28 +1,28 @@
 <template>
   <div>
     <hero />
-    <about />
     <projects />
+    <skills />
+    <about />
     <contact />
-    <blog />
   </div>
 </template>
 
 <script>
 import Hero from '~/components/Hero'
 import About from '~/components/About'
+import Skills from '~/components/Skills'
 import Projects from '~/components/Projects'
 import Contact from '~/components/Contact'
-import Blog from '~/components/Blog'
 
 export default {
   layout: 'default',
   components: {
     Hero,
     About,
+    Skills,
     Projects,
-    Contact,
-    Blog
+    Contact
   }
 }
 </script>
