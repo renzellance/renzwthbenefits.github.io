@@ -4,6 +4,9 @@
   "description": "Renzel&#39;s site using nuxt.",
   "author": "Renzel Manlapaz",
   "private": true,
+  "engines": {
+    "node": "10.14.0"
+  },
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",
