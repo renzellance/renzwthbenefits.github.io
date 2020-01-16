@@ -7,7 +7,10 @@
         </h1>
         <div class="columns">
           <div class="column is-half">
-            WORD CLOUD HERE
+            <vue-word-cloud
+              :words="words"
+              :color="colors"
+            />
           </div>
           <div class="column is-half">
             <p class="subtitle">
@@ -23,11 +26,13 @@
               If you need more details, feel free to ask me or download a copy of my resumé
               <a
                 class="has-text-link"
-                @click="$scrollTo('#contact-section')">here</a>.
+                @click="$scrollTo('#contact-section')"
+              >here</a>.
             </p>
             <a
               class="button is-dark is-inverted is-outlined"
-              @click="$scrollTo('#about-section')">
+              @click="$scrollTo('#about-section')"
+            >
               Learn more about me
             </a>
           </div>
@@ -38,7 +43,48 @@
 </template>
 
 <script>
+import VueWordCloud from 'vuewordcloud'
+
 export default {
-  name: 'Skills'
+  name: 'Skills',
+  components: {
+    [VueWordCloud.name]: VueWordCloud
+  },
+  data() {
+    return {
+      availableColors: [
+        'Salmon',
+        'Tomato',
+        'Moccasin',
+        'RosyBrown',
+        'Chocolate',
+        'Sienna',
+        'CornflowerBlue',
+        'PaleTurquoise',
+        'MediumSeaGreen',
+        'PaleGoldenrod'
+      ],
+      words: [
+        ['vue', 10],
+        ['nuxt', 10],
+        ['javascript', 10],
+        ['node', 8],
+        ['express', 8],
+        ['AWS', 8],
+        ['SASS', 8],
+        ['git', 8],
+        ['PHP', 6],
+        ['bash', 6],
+        ['SQL', 6],
+        ['elasticsearch', 6],
+        ['react', 4],
+        ['BDD', 4],
+        ['python', 4],
+        ['mongodb', 4],
+        ['TDD', 4]
+      ],
+      colors: () => this.availableColors[Math.floor(Math.random() * 10)]
+    }
+  }
 }
 </script>

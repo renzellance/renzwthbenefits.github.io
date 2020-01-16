@@ -12,7 +12,8 @@
             </h2>
             <a
               class="button is-dark is-inverted is-outlined"
-              @click="$scrollTo('#projects-section')">
+              @click="$scrollTo('#projects-section')"
+            >
               Learn more about me
             </a>
           </div>

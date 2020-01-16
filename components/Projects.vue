@@ -12,7 +12,8 @@
             </h2>
             <a
               class="button is-inverted is-outlined"
-              @click="$scrollTo('#skills-section')">
+              @click="$scrollTo('#skills-section')"
+            >
               What I've learned so far
             </a>
           </div>

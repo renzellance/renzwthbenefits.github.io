@@ -21,7 +21,8 @@
             </p>
             <a
               class="button is-inverted is-outlined"
-              @click="$scrollTo('#contact-section')">
+              @click="$scrollTo('#contact-section')"
+            >
               Let's connect!
             </a>
           </div>

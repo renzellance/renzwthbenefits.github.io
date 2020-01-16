@@ -14,7 +14,8 @@
               class="button is-dark is-inverted is-outlined"
               title="Renzel Manlapaz Resume"
               href="/resume.pdf"
-              download="Renzel Manlapaz Resume">
+              download="Renzel Manlapaz Resume"
+            >
               Download my resumé
             </a>
           </div>
