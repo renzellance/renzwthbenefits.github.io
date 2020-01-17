@@ -3,19 +3,21 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          My skills and experiences
+          Skills and technologies
         </h1>
         <div class="columns">
           <div class="column is-half">
             <vue-word-cloud
               :words="words"
               :color="colors"
+              font-family="Roboto"
             />
           </div>
           <div class="column is-half">
             <p class="subtitle">
-              Over time, I've had the opportunity to tackle all sorts of programming languages, practices, and technologies.
-              I've created a word cloud to showcase most of the relevant ones I know, with the biggest being the ones I'm most confident in.
+              Over time, I've had the opportunity familiarize myself with all sorts of programming languages, best practices,
+              and development processes. I've created a word cloud to showcase most of the relevant ones I know, with the biggest
+              being the ones I'm most confident in.
             </p>
             <p class="subtitle">
               I refrained from creating a fancy shmancy animated star or percentage skill rating component for this because it's
@@ -23,7 +25,7 @@
               technology. There is always room for improvement.
             </p>
             <p class="subtitle">
-              If you need more details, feel free to ask me or download a copy of my resumé
+              If you need more details, feel free to ask me or download a copy of my resumé through
               <a
                 class="has-text-link"
                 @click="$scrollTo('#contact-section')"
