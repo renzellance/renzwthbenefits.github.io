@@ -14,11 +14,13 @@
             </p>
             <p class="subtitle">
               I enjoy programming in general as it forces me to often think outside the box and encourages me to keep on learning.
-              Ever since I was a child, I've been interested in technology and my early exposure to gaming made me fascinated with
-              the concept of creating something out of virtually nothing and selling it. Selling pixels! It was an eye-opening moment
-              for me, so in grade school I started self-studying and created a game using an app called RPGMaker XP. I remember learning
-              Ruby back then in order to add in some of the custom functionality I wanted. I wasn't able to finish it, but it's what
-              introduced me to programming.
+              Ever since I was a child, I've been interested in technology, and my early exposure to gaming made me fascinated with
+              the concept of creating something out of virtually nothing and selling it. Selling pixels!
+            </p>
+            <p class="subtitle">
+              It was an eye-opening moment for me, so in grade school I started self-studying and created a game using an app called
+              RPGMaker XP. I remember learning Ruby back then in order to implement some of the custom functionality I wanted. I wasn't
+              able to finish it, but it's what introduced me to programming.
             </p>
             <a
               class="button is-inverted is-outlined"
