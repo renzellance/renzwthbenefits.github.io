@@ -5,7 +5,7 @@
         <div class="columns">
           <div class="column is-half">
             <h2 class="title">
-              Stay in touch with me
+              Let's stay in touch
             </h2>
             <div class="columns is-mobile">
               <div class="column is-narrow">
@@ -65,7 +65,7 @@
             <div class="field">
               <label class="label has-text-light">Email</label>
               <div class="control has-icons-left">
-                <input class="input" type="email" placeholder="The email will be cc'd to yours">
+                <input class="input" type="email" placeholder="I'll be referring to this email when I reply">
                 <span class="icon is-small is-left">
                   <font-awesome-icon :icon="['fas', 'envelope']" />
                 </span>
@@ -79,7 +79,10 @@
             </div>
             <div class="field">
               <div class="control">
-                <button class="button is-dark is-inverted is-outlined">
+                <button
+                  class="button is-dark is-inverted is-outlined"
+                  @click="submit"
+                >
                   Send
                 </button>
               </div>
@@ -93,6 +96,13 @@
 
 <script>
 export default {
-  name: 'Contact'
+  name: 'Contact',
+  methods: {
+    submit() {
+      alert(
+        `Sorry, this feature doesn't work yet. Please send an email to renzman8@gmail.com for now if you want to contact me.`
+      )
+    }
+  }
 }
 </script>

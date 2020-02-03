@@ -14,7 +14,7 @@
               class="button is-dark is-inverted is-outlined"
               @click="$scrollTo('#projects-section')"
             >
-              What I'm working on
+              See what I'm working on
             </a>
           </div>
         </div>

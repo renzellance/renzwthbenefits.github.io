@@ -5,7 +5,7 @@
         <h1 class="title">
           About Me
         </h1>
-        <div class="columns">
+        <div class="columns is-vcentered">
           <div class="column is-half">
             <p class="subtitle">
               I'm your stereotypical programmer, I don't live an active lifestyle; I'm basically a couch potato. In my spare time,
@@ -22,11 +22,16 @@
               RPGMaker XP. I remember learning Ruby back then in order to implement some of the custom functionality I wanted. I wasn't
               able to finish it, but it's what introduced me to programming.
             </p>
+            <p class="subtitle">
+              Right now, I'm interested in pivoting my career towards Product Management. Recently, I noticed that most of my interest
+              has become more focused in UX and learning about our potential customers. I want to have a better understanding of how I
+              can bring better value to users through research, experimentation and whatever other information I can get my hands on.
+            </p>
             <a
               class="button is-inverted is-outlined"
               @click="$scrollTo('#contact-section')"
             >
-              Let's connect!
+              Connect with me!
             </a>
           </div>
           <div class="column is-half">

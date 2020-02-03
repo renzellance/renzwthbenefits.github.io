@@ -15,14 +15,11 @@
           </div>
           <div class="column is-half">
             <p class="subtitle">
-              Over time, I've had the opportunity familiarize myself with all sorts of programming languages, best practices,
-              and development processes. I've created a word cloud to showcase most of the relevant ones I know, with the biggest
-              being the ones I'm most confident in.
-            </p>
-            <p class="subtitle">
-              I refrained from creating a fancy shmancy animated star or percentage skill rating component for this because it's
-              extremely difficult to determine at which point a developer is in terms of knowledge and experience with a certain
-              technology. There is always room for improvement.
+              Over time, I've had the opportunity to familiarize myself with all sorts of programming languages, best practices,
+              and development processes - spending most of my time working with the Nuxt(Vue)/Express(Node)/ElasticSearch/SQL stack.
+              I've also been able to work on to a ton of devops related tasks such as managing NGINX configs, AWS setup and services,
+              CI/CD through Gitlab, and general server management. I'm also familiar with unit testing frameworks like Jest as well
+              as techniques like TDD, BDD and DDD.
             </p>
             <p class="subtitle">
               If you need more details, feel free to ask me or download a copy of my resumé through
