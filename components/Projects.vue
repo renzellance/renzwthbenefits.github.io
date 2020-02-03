@@ -49,10 +49,9 @@
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">
                 <p class="subtitle">
-                  <a title="Monster Battle Game" href="https://vue-monster-game.herokuapp.com/">Monster Battling Game</a> - a simple turn-based
-                  text-based monster battling game with different possible moves such as attacking and healing. It also logs the user's and monster's
-                  last moves and displays it below. The base game came from a guide that I followed and I simply improved it by changing up how the
-                  moves work. I used it to learn Vue.
+                  <a title="Monster Battle Game" href="https://vue-monster-game.herokuapp.com/">Monster Battling Game</a> - a simple turn-based,
+                  text-based monster battling game with a few possible moves such as attacking and healing. It also keeps a log of all actions at
+                  the bottom. The base game came from a guide I used while learning Vue, I just added a few improvements to it.
                 </p>
               </div>
               <div class="column is-half">
