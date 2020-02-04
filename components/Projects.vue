@@ -23,7 +23,7 @@
             <p class="subtitle">
               Before this, I've also had the opportunity to lead the front end development team working on the new version of the
               <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly the same as what
-              I have right now with the site team while also mentoring some of the newer hires and often leading discussions regarding
+              I have right now with the site team while also mentoring some of the newer hires and often engaging in discussions regarding
               implementation with the back end and devops teams. Along with the migration of old features and implementation of new ones,
               we had to tackle UI and UX problems such as the slow perceived loading times of the app, which we solved by caching with
               service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful. We also helped out with some of
