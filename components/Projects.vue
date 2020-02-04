@@ -2,7 +2,7 @@
   <section id="projects-section" class="hero is-medium is-bold is-fullheight">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
+        <h1 class="title is-size-4-mobile">
           Current work and other projects
         </h1>
         <div class="columns is-vcentered is-centered">
@@ -28,13 +28,13 @@
             <p class="subtitle">
               Before working on the site, I also had the opportunity to lead the front end development team, who was tasked to create the
               new version of the <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly
-              the same as it is now but I also mentored some of the new hires and was often deeply involved in discussions concerned with
-              implementation and architecture with the back end and devops teams. Along with the migration of old features and implementation
+              the same as it is now but I also mentored some of the new hires and was often deeply involved in discussions  with the back end
+              and devops teams about the implementation and architecture of the app. Along with the migration of old features and implementation
               of new ones, we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of the app, which
-              we solved by caching through service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful.
+              we solved by using service workers, pre-fetching data, and re-organizing some of the APIs to make it more RESTful.
             </p>
             <p class="subtitle">
-              Some of the smaller projects I've worked on:
+              <strong>Some of the smaller projects I've been able to work on:</strong>
             </p>
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">

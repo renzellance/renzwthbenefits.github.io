@@ -2,7 +2,7 @@
   <section id="skills-section" class="hero is-medium is-bold is-fullheight is-dark">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
+        <h1 class="title is-size-4-mobile">
           Skills and technologies
         </h1>
         <div class="columns">

@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <div class="columns is-vcentered is-centered">
-          <div class="column is-half">
+          <div class="column is-half-desktop is-two-thirds-mobile">
             <h1 class="title">
               Hi, I'm Renzel.
             </h1>

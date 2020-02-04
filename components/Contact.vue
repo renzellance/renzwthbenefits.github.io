@@ -4,7 +4,7 @@
       <div class="container">
         <div class="columns">
           <div class="column is-half">
-            <h2 class="title">
+            <h2 class="title is-size-4-mobile">
               Let's stay in touch
             </h2>
             <div class="columns is-mobile">
@@ -47,10 +47,10 @@
             </div>
           </div>
           <div class="column is-half">
-            <h2 class="title">
+            <h2 class="title is-size-4-mobile">
               Send me a message
             </h2>
-            <h3 class="subtitle is-small">
+            <h3 class="subtitle is-small is-size-6-mobile">
               Got questions or want to collaborate on cool, new things?
             </h3>
             <div class="field">

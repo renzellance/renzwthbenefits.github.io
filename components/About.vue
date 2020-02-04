@@ -2,7 +2,7 @@
   <section id="about-section" class="hero is-medium is-bold is-fullheight">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
+        <h1 class="title is-size-4-mobile">
           About Me
         </h1>
         <div class="columns is-vcentered">
@@ -23,8 +23,8 @@
               able to finish it in the end, but it's what got me into programming.
             </p>
             <p class="subtitle">
-              Recently, I've found myself interested in pivoting my career towards Product Management. Most of my attention has become
-              more focused in UX and learning more about our users. I want to have a better understanding of how I can bring better value
+              Recently, I've found myself interested in pivoting my career towards Product Management. Most of my attention is becoming
+              more focused on UX and learning more about our users. I want to have a better understanding of how I can bring better value
               to our customers through research, experimentation, and whatever other methodologies or information I can get my hands on.
             </p>
             <a
