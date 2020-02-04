@@ -9,26 +9,26 @@
             </h2>
             <div class="columns is-mobile">
               <div class="column is-narrow">
-                <a title="Renzel Manlapaz Github page" href="https://github.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'github']" class="fa-2x" /></a>
+                <a title="Github link" href="https://github.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'github']" class="fa-2x" /></a>
               </div>
               <div class="column is-narrow">
-                <a title="Renzel Manlapaz LinkedIn page" href="https://www.linkedin.com/in/renzwthbenefits"><font-awesome-icon :icon="['fab', 'linkedin']" class="fa-2x" /></a>
+                <a title="LinkedIn link" href="https://www.linkedin.com/in/renzwthbenefits"><font-awesome-icon :icon="['fab', 'linkedin']" class="fa-2x" /></a>
               </div>
               <div class="column is-narrow">
-                <a title="Renzel Manlapaz Facebook page" href="https://www.facebook.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'facebook']" class="fa-2x" /></a>
+                <a title="Facebook link" href="https://www.facebook.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'facebook']" class="fa-2x" /></a>
               </div>
               <div class="column is-narrow">
-                <a title="Renzel Manlapaz Twitter page" href="https://www.twitter.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'twitter']" class="fa-2x" /></a>
+                <a title="Twitter link" href="https://www.twitter.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'twitter']" class="fa-2x" /></a>
               </div>
               <div class="column is-narrow">
-                <a title="Renzel Manlapaz Instagram page" href="https://www.instagram.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'instagram']" class="fa-2x" /></a>
+                <a title="Instagram link" href="https://www.instagram.com/renzwthbenefits"><font-awesome-icon :icon="['fab', 'instagram']" class="fa-2x" /></a>
               </div>
             </div>
             <div class="columns">
               <div class="column is-narrow">
                 <a
                   class="button is-dark is-inverted is-outlined"
-                  title="Download the resume of Renzel Manlapaz"
+                  title="Download resume"
                   href="/resume.pdf"
                   download="Renzel Manlapaz Resume"
                 >
@@ -39,7 +39,7 @@
             <div class="columns">
               <div class="column is-narrow">
                 <a
-                  title="Send Renzel Manlapaz an email"
+                  title="Send an email"
                   href="mailto:renzman8@gmail.com"
                 ><font-awesome-icon :icon="['fas', 'envelope']" /> : renzman8@gmail.com
                 </a>
@@ -100,7 +100,7 @@ export default {
   methods: {
     submit() {
       alert(
-        `Sorry, this feature doesn't work yet. Please send an email to renzman8@gmail.com for now if you want to contact me.`
+        `Sorry, this feature doesn't work yet. Please feel free to send an email to renzman8@gmail.com for now if you want to contact me.`
       )
     }
   }

@@ -42,21 +42,21 @@
               </div>
               <div class="column is-half">
                 <figure class="image is-2by1">
-                  <img src="/vigilance.png">
+                  <img src="/vigilance.png" alt="vigilance">
                 </figure>
               </div>
             </div>
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">
                 <p class="subtitle">
-                  <a title="Monster Battle Game" href="https://vue-monster-game.herokuapp.com/">Monster Battling Game</a> - a simple turn-based,
+                  <a title="Monster Battle Game" href="https://vue-monster-game.herokuapp.com/index.html">Monster Battling Game</a> - a simple turn-based,
                   text-based monster battling game with a few possible moves such as attacking and healing. It also keeps a log of all actions at
                   the bottom. The base game came from a guide I used while learning Vue, I just added a few improvements to it.
                 </p>
               </div>
               <div class="column is-half">
                 <figure class="image is-2by1">
-                  <img src="/monsterbattle.png">
+                  <img src="/monsterbattle.png" alt="monster battle game">
                 </figure>
               </div>
             </div>
