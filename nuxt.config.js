@@ -55,6 +55,18 @@ module.exports = {
           }
         ]
       }
+    ],
+    [
+      '@nuxtjs/google-tag-manager',
+      {
+        id: 'GTM-TP9ZLRK'
+      }
+    ],
+    [
+      '@nuxtjs/google-analytics',
+      {
+        id: 'UA-81334433-2'
+      }
     ]
   ],
   /*
