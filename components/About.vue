@@ -15,17 +15,17 @@
             <p class="subtitle">
               I enjoy programming in general as it forces me to often think outside the box and encourages me to keep on learning.
               Ever since I was a child, I've been interested in technology, and due to my early exposure to gaming, I was fascinated with
-              the concept of creating something out of virtually nothing and selling it. Selling pixels!
+              the concept of creating something out of virtually nothing and making money out of it. Selling pixels!
             </p>
             <p class="subtitle">
-              It was an eye-opening moment for me, so in grade school I started self-studying and created a game using an app called
+              It was an eye-opening moment for me, so during grade school I started self-studying and created a game using an app called
               RPGMaker XP. I remember learning Ruby back then in order to implement some of the custom functionality I wanted. I wasn't
-              able to finish it, but it's what introduced me to programming.
+              able to finish it in the end, but it's what got me into programming.
             </p>
             <p class="subtitle">
-              Right now, I'm interested in pivoting my career towards Product Management. This is because I noticed that most of my interest
-              has become more focused in UX and learning more about our potential customers. I want to have a better understanding of how I
-              can bring better value to users through research, experimentation and whatever other information I can get my hands on.
+              Recently, I've found myself interested in pivoting my career towards Product Management. Most of my attention has become
+              more focused in UX and learning more about our users. I want to have a better understanding of how I can bring better value
+              to our customers through research, experimentation, and whatever other methodologies or information I can get my hands on.
             </p>
             <a
               class="button is-inverted is-outlined"

@@ -8,26 +8,31 @@
         <div class="columns is-vcentered is-centered">
           <div class="column is-full">
             <p class="subtitle">
-              I have been working for 2 years now as a <strong>Full-Stack Engineer</strong> for
+              Since January 2018, I have been working as a <strong>Full-Stack Engineer</strong> for
               <a title="Import Genius website" href="https://www.importgenius.com">Import Genius</a>, a business intelligence company
-              leveraging on import and export data. The project I'm currently assigned to is the main website, linked above. I lead a
-              team of seven people working on various tasks such as the migration of the legacy pages, creating A/B tests to try out
-              new acquisition strategies as well as improving site performance and other optimizations. As a small, fast-paced team, we
-              encounter several interesting challenges on a day-to-day basis, from major issues like shipment data management (validation,
-              parsing, normalization, and the like) and enhancing crawl rate and indexing scores from search engines through SEO and SEM
-              - to seemingly trivial but equally significant chores such as ensuring that all our metrics through Google Analytics and
-              other services are accurate and troubleshooting bugs and urgent changes that come up from time to time. Other than
-              engineering, my role in the team has also been to facilitate sprint meetings, manage the backlog and set up goals and
-              milestones for everyone in my team.
+              leveraging import and export data as a service.
             </p>
             <p class="subtitle">
-              Before this, I've also had the opportunity to lead the front end development team working on the new version of the
-              <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly the same as what
-              I have right now with the site team while also mentoring some of the newer hires and often engaging in discussions regarding
-              implementation with the back end and devops teams. Along with the migration of old features and implementation of new ones,
-              we had to tackle UI and UX problems such as the slow perceived loading times of the app, which we solved by caching with
-              service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful. We also helped out with some of
-              the architecture such as how features like the search and subscription are structured and validated.
+              The project I'm currently assigned to is the main website, linked above. I work with a cross-functional team of seven
+              developers and designers working on various tasks like migrating the legacy pages, creating A/B tests to try out
+              new acquisition strategies, improving site performance, and other sorts of optimizations.
+            </p>
+            <p class="subtitle">
+              As a small, fast-paced team, we
+              encounter several interesting challenges on a day-to-day basis, from major issues like shipment data management (validation,
+              parsing, normalization, and the like) and enhancing crawl rate and indexing scores from search engines (through SEO and SEM)
+              - to seemingly trivial, but equally significant chores such as ensuring that all our metrics through Google Analytics and
+              other services are accurate and spending some time trying to deal with our techinical debts. Other than
+              engineering, my role in the team has also been to facilitate sprint meetings, manage the backlog, plan the execution,
+              and set up goals and milestones for everyone in my team.
+            </p>
+            <p class="subtitle">
+              Before working on the site, I also had the opportunity to lead the front end development team, who was tasked to create the
+              new version of the <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly
+              the same as it is now but I also mentored some of the new hires and was often involved in discussions concerning implementation
+              and architecture with the back end and devops teams. Along with the migration of old features and implementation of new ones,
+              we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of the app, which we solved
+              by caching through service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful.
             </p>
             <p class="subtitle">
               Some of the smaller projects I've worked on:
