@@ -16,7 +16,7 @@
     "precommit": "npm run lint",
     "test": "jest",
     "heroku-postbuild": "npm run build",
-    "deploy-gh": "DEPLOY_ENV=GH_PAGES nuxt generate && push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy-gh": "nuxt generate && push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.12.0",
