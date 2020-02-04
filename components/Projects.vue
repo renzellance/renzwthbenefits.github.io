@@ -18,21 +18,20 @@
               new acquisition strategies, improving site performance, and other sorts of optimizations.
             </p>
             <p class="subtitle">
-              As a small, fast-paced team, we
-              encounter several interesting challenges on a day-to-day basis, from major issues like shipment data management (validation,
-              parsing, normalization, and the like) and enhancing crawl rate and indexing scores from search engines (through SEO and SEM)
-              - to seemingly trivial, but equally significant chores such as ensuring that all our metrics through Google Analytics and
-              other services are accurate and spending some time trying to deal with our techinical debts. Other than
-              engineering, my role in the team has also been to facilitate sprint meetings, manage the backlog, plan the execution,
-              and set up goals and milestones for everyone in my team.
+              As a small, fast-paced team, we encounter several interesting challenges on a day-to-day basis - from major issues like
+              shipment data management (validation, parsing, normalization, and the like) and enhancing crawl rate and indexing scores
+              from search engines (through SEO and SEM) - to seemingly trivial, but equally significant chores such as keeping up with
+              our techinical debts and ensuring that all our metrics through Google Analytics and other services are accurate. Other than
+              engineering, my role in the team has also been to facilitate sprint meetings, manage the backlog, plan the execution, and
+              set up our goals and milestones.
             </p>
             <p class="subtitle">
               Before working on the site, I also had the opportunity to lead the front end development team, who was tasked to create the
               new version of the <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly
-              the same as it is now but I also mentored some of the new hires and was often involved in discussions concerning implementation
-              and architecture with the back end and devops teams. Along with the migration of old features and implementation of new ones,
-              we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of the app, which we solved
-              by caching through service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful.
+              the same as it is now but I also mentored some of the new hires and was often deeply involved in discussions concerned with
+              implementation and architecture with the back end and devops teams. Along with the migration of old features and implementation
+              of new ones, we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of the app, which
+              we solved by caching through service workers, pre-fetching data, and re-organizing some of the APIs to be more RESTful.
             </p>
             <p class="subtitle">
               Some of the smaller projects I've worked on:
