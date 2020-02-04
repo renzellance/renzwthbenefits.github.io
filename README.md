@@ -1,6 +1,6 @@
-# renzel-site
+# renzwthbenefits.github.io
 
-> Renzel&#39;s site using nuxt.
+> Renzel&#39;s site made with nuxt. Main branch is develop.
 
 ## Build Setup
 
@@ -17,6 +17,10 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
+
+# deploy to master
+$ yarn deploy-gh
+
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
