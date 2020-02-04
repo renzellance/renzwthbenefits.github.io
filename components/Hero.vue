@@ -3,12 +3,12 @@
     <div class="hero-body">
       <div class="container">
         <div class="columns is-vcentered is-centered">
-          <div class="column is-half-desktop is-two-thirds-mobile">
+          <div class="column is-half">
             <h1 class="title">
               Hi, I'm Renzel.
             </h1>
             <h2 class="subtitle">
-              I'm a full-stack developer. Nice to meet you.
+              I'm a full-stack developer. <br class="is-hidden-desktop"> Nice to meet you.
             </h2>
             <a
               class="button is-dark is-inverted is-outlined"
