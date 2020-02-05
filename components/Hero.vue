@@ -4,7 +4,10 @@
       <div class="container">
         <div class="columns is-vcentered is-centered">
           <div class="column is-half">
-            <h1 class="title">
+            <h1
+              v-anime="{ translateX: 150, duration: 500, direction: 'alternate', easing: 'easeInOutSine' }"
+              class="title"
+            >
               Hi, I'm Renzel.
             </h1>
             <h2 class="subtitle">
