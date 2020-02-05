@@ -19,10 +19,10 @@
               and development processes.
             </p>
             <p class="subtitle">
-              I've spent most of my time working with languages and tools such as Nuxt (Vue), Express (Node), ElasticSearch, and SQL.
-              I've also had the chance to work on devops tasks such as managing and maintaining our AWS setup (instances, load balancers,
-              CDN, data storage options), NGINX configs, and CI/CD through Gitlab. I've also familiarized myself with unit testing
-              frameworks like Jest as well as techniques like TDD, BDD and DDD.
+              I spend most of my time working with languages and tools such as Nuxt (Vue), Express (Node), ElasticSearch, and SQL.
+              I also often work on devops tasks such as managing and maintaining our AWS setup (instances, load balancers, CDN, data
+              storage options like S3 and EBS, etc.), NGINX configs, and CI/CD through Gitlab. I've also familiarized myself with unit
+              testing frameworks like Jest as well as techniques like TDD, BDD and DDD.
             </p>
             <p class="subtitle">
               If you need more details, feel free to ask me or download a copy of my resumé through

@@ -23,7 +23,7 @@
               able to finish it in the end, but it's what got me into programming.
             </p>
             <p class="subtitle">
-              Recently, I've found myself interested in pivoting my career towards Product Management. Most of my attention is becoming
+              Recently, I find myself interested in pivoting my career towards Product Management. Most of my time and attention is becoming
               more focused on UX and learning more about our users. I want to have a better understanding of how I can bring better value
               to our customers through research, experimentation, and whatever other methodologies or information I can get my hands on.
             </p>
