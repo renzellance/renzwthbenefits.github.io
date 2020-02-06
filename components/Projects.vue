@@ -9,8 +9,8 @@
           <div class="column is-full">
             <p class="subtitle">
               Since January 2018, I have been working as a <strong>Full-Stack Engineer</strong> for
-              <a title="Import Genius website" href="https://www.importgenius.com">Import Genius</a>, a business intelligence company
-              leveraging import and export data as a service.
+              <a title="Import Genius website" href="https://www.importgenius.com" rel="nofollow">Import Genius</a>, a business
+              intelligence company leveraging import and export data as a service.
             </p>
             <p class="subtitle">
               The project I'm currently assigned to is the main website, linked above. I work with a cross-functional team of seven
@@ -27,11 +27,11 @@
             </p>
             <p class="subtitle">
               Before working on the site, I also had the opportunity to lead the front end development team, who was tasked to create the
-              new version of the <a title="Import Genius app" href="https://app.importgenius.com">app</a>. My responsibilities were mostly
-              the same as it is now but I also mentored some of the new hires and was often deeply involved in discussions  with the back end
-              and devops teams about the implementation and architecture of the app. Along with the migration of old features and implementation
-              of new ones, we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of the app, which
-              we solved by using service workers, pre-fetching data, and re-organizing some of the APIs to make it more RESTful.
+              new version of the <a title="Import Genius app" href="https://app.importgenius.com" rel="nofollow">app</a>. My responsibilities
+              were mostly the same as it is now but I also mentored some of the new hires and was often deeply involved in discussions with
+              the back end and devops teams about the architecture and implementation of the app. Along with migrating old features and
+              putting together new ones, we had to tackle a ton of UI and UX problems, one of them being the perceived slow loading times of
+              the app, which we solved by using service workers, pre-fetching data, and re-organizing some of the APIs to make it more RESTful.
             </p>
             <p class="subtitle">
               <strong>Some of the smaller projects I've been able to work on:</strong>
@@ -39,7 +39,7 @@
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">
                 <p class="subtitle">
-                  <a title="Import Genius vigilance" href="https://vigilance.importgenius.com">Vigilance</a> - a service monitoring dashboard
+                  <a title="Import Genius vigilance" href="https://vigilance.importgenius.com" rel="nofollow">Vigilance</a> - a service monitoring dashboard
                   application used by Import Genius to alert the developers by showing them at a glance when anything goes wrong with the
                   services and servers that it's been integrated with.
                 </p>
