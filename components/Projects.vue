@@ -21,7 +21,7 @@
               As a small, fast-paced team, we encounter several interesting challenges on a day-to-day basis - from major issues like
               shipment data management (validation, parsing, normalization, and the like) and enhancing crawl rate and indexing scores
               from search engines (through SEO and SEM) - to seemingly trivial, but equally significant chores such as keeping up with
-              our techinical debts and ensuring that all our metrics through Google Analytics and other services are accurate. Other than
+              our technical debts and ensuring that all our metrics through Google Analytics and other services are accurate. Other than
               engineering, my role in the team has also been to facilitate sprint meetings, manage the backlog, plan the execution, and
               set up our goals and milestones.
             </p>
