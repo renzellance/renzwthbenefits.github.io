@@ -2,7 +2,7 @@
   <section id="about-section" class="hero is-medium is-bold is-fullheight">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title is-size-4-mobile">
+        <h1 class="title">
           About Me
         </h1>
         <div class="columns is-vcentered">
@@ -29,12 +29,6 @@
               understanding of how I can bring better value to our customers through research, experimentation, and whatever other means
               and methods I have at my disposal.
             </p>
-            <a
-              class="button is-inverted is-outlined"
-              @click="$scrollTo('#contact-section')"
-            >
-              Connect with me
-            </a>
           </div>
           <div class="column is-half">
             <figure class="image is-3by2">

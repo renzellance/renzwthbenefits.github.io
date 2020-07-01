@@ -1,8 +1,8 @@
 <template>
-  <section id="skills-section" class="hero is-medium is-bold is-fullheight is-dark">
+  <section id="skills-section" class="hero is-medium is-bold is-fullheight">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title is-size-4-mobile">
+        <h1 class="title">
           Skills and technologies
         </h1>
         <div class="columns">
@@ -19,24 +19,20 @@
               and development processes.
             </p>
             <p class="subtitle">
-              I spend most of my time working with languages and tools such as Nuxt (Vue), Express (Node), ElasticSearch, and SQL.
-              I also often work on devops tasks such as managing and maintaining our AWS setup (instances, load balancers, CDN, data
-              storage options like S3 and EBS, etc.), NGINX configs, and CI/CD through Gitlab. I've also familiarized myself with unit
-              testing frameworks like Jest as well as techniques like TDD, BDD and DDD.
+              I spend most of my time working with frameworks, languages, and tools such as Nuxt (Vue), Express (Node), ElasticSearch,
+              and SQL. I also often work on devops tasks such as managing and maintaining our AWS setup (instances, load balancers, CDN,
+              data storage options like S3 and EBS, etc.), NGINX configs, and CI/CD through Gitlab. I've also familiarized myself with
+              unit testing frameworks like Jest as well as techniques like TDD, BDD and DDD.
             </p>
             <p class="subtitle">
-              If you need more details, feel free to ask me or download a copy of my resumé through
+              If you need more details, feel free to ask me or download a copy of my resumé
               <a
                 class="has-text-link"
-                @click="$scrollTo('#contact-section')"
+                title="Download resume"
+                href="/resume.pdf"
+                download="Renzel Manlapaz Resume"
               >here</a>.
             </p>
-            <a
-              class="button is-dark is-inverted is-outlined"
-              @click="$scrollTo('#about-section')"
-            >
-              Learn more about me
-            </a>
           </div>
         </div>
       </div>
@@ -72,15 +68,15 @@ export default {
   data() {
     return {
       availableColors: shuffleArray([
-        'Salmon',
-        'Tomato',
-        'Moccasin',
-        'RosyBrown',
-        'Chocolate',
-        'Sienna',
-        'CornflowerBlue',
-        'PaleTurquoise',
-        'MediumSeaGreen',
+        'Aqua',
+        'MediumSpringGreen',
+        'DeepPink',
+        'Wheat',
+        'FireBrick',
+        'SteelBlue',
+        'DarkSlateGray',
+        'LightCoral',
+        'Thistle',
         'PaleGoldenrod'
       ]),
       words: shuffleArray([
