@@ -39,21 +39,21 @@
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">
                 <a
-                  title="Import Genius vigilance"
-                  href="https://vigilance.importgenius.com"
-                  rel="nofollow"
+                  title="Row Counterer"
+                  href="https://www.renzelmanlapaz.com/rowcounterer"
                   class="is-size-4 is-size-5-mobile"
                 >
-                  Vigilance
+                  Row Counterer
                 </a>
                 <p class="subtitle has-text-justified">
-                  A service monitoring dashboard application used by Import Genius to alert the developers by showing them
-                  at a glance when anything goes wrong with the services and servers that it's been integrated with.
+                  A web app for managing crochet/knit projects.  It functions as a simple and
+                  easy row counter that also allows users to set prompts for increases and decreases in the pattern.
+                  The project was created using Nuxt and stores data in the local storage.
                 </p>
               </div>
               <div class="column is-half">
                 <figure class="image is-2by1">
-                  <img src="/vigilance.png" alt="vigilance">
+                  <img src="/rowcounterer.png" alt="rowcounterer">
                 </figure>
               </div>
             </div>
@@ -68,8 +68,8 @@
                 </a>
                 <p class="subtitle has-text-justified">
                   A simple turn-based, text-based monster battling game with a few possible moves such as attacking and healing.
-                  It also keeps a log of all actions at the bottom. The base game came from a guide I used while learning Vue,
-                  I just added a few improvements to it.
+                  It also keeps a log of all actions at the bottom. The base game came from a guide I read while learning Vue
+                  with some added improvements.
                 </p>
               </div>
               <div class="column is-half">
