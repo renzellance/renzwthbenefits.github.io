@@ -8,7 +8,7 @@
               Hi, I'm Renzel.
             </h1>
             <h2 class="subtitle is-size-4-mobile">
-              I'm a full-stack developer working on getting into Product Management.
+              I'm an Associate Product Manager.
             </h2>
             <h2 class="subtitle is-size-4-mobile">
               Nice to meet you.

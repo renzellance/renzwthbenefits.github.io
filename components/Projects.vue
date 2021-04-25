@@ -8,33 +8,21 @@
         <div class="columns is-vcentered is-centered">
           <div class="column is-full">
             <p class="subtitle">
-              Since January 2018, I've been working as a <strong>Full-Stack Engineer</strong> for
-              <a title="Import Genius website" href="https://www.importgenius.com" rel="nofollow">Import Genius</a>, a business
-              intelligence company that leverages import and export data.
+              I'm currently working as an Associate Product Manager for <a title="Import Genius website" href="https://www.importgenius.com" rel="nofollow">ImportGenius</a>,
+              a business intelligence company that leverages import and export data. I began my career as a Full Stack Engineer for the same
+              company in January 2018. From there I was given the opportunity to take on lead roles from managing the feature development
+              of the product, to taking on the project of migrating the major pages of the site to a new stack. I was also able to play with our
+              DevOps and data stack, so I was able to build a pretty wide range of skills. I ended up liking having the breadth of knowledge so
+              product &amp; product management came natural for me to pursue.
             </p>
             <p class="subtitle">
-              The project I'm currently assigned to is the website, linked above. I work with a cross-functional team of six
-              developers and a designer, working on various tasks like migrating the legacy pages, creating A/B tests to try out
-              new acquisition strategies, improving site performance, and all sorts of other optimizations.
+              My primary goal right now as Associate Product Manager is to improve the acquisition and activation process of ImportGenius.
+              I create strategies, roadmaps, specs, and build features around that. I also analyze the data we collect and find areas we can
+              experiment on to optimize our processes &amp; funnels. Since I have a technical background, from time to time I still take on dev tasks and make minor changes
+              to our code.
             </p>
             <p class="subtitle">
-              As a small, fast-paced team, we encounter several interesting challenges on a day-to-day basis - issues like shipment data
-              management (validation, parsing, normalization and the like) and enhancing crawl rate and indexing scores from search
-              engines (through SEO and SEM). We also do a bit of maintenance throughout the stack, keeping our technical debts in check
-              and ensuring that all our metrics through Google Analytics and other services are accurate. Other than engineering, my role
-              in the team is also to facilitate sprint meetings, manage the backlog, plan the execution, and align the team's goals.
-            </p>
-            <p class="subtitle">
-              Before working on the site, I also had the opportunity to lead the front end development team, in charge of creating the
-              new version of the <a title="Import Genius app" href="https://app.importgenius.com" rel="nofollow">app</a>. My responsibilities
-              were mostly the same as it is now but I was also able to mentor some of the new hires and was more often deeply involved in
-              discussions with the back end and devops teams about the architecture and implementation specs of the app. While migrating old
-              features and putting together new ones, we had to tackle a ton of UI and UX problems, an example the perceived slow loading
-              times of the app, which we solved by using service workers, pre-fetching data, and re-organizing some of the APIs and making it
-              more RESTful.
-            </p>
-            <p class="subtitle">
-              <strong>Some of the smaller projects I've been able to work on:</strong>
+              <strong>Some of the smaller dev projects I've been able to work on:</strong>
             </p>
             <div class="columns is-centered is-vcentered">
               <div class="column is-half">

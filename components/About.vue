@@ -8,15 +8,13 @@
         <div class="columns is-vcentered">
           <div class="column is-half">
             <p class="subtitle">
-              I'm your stereotypical programmer - one who doesn't live an active lifestyle. I'm basically a couch potato despite what the
-              images I've put up here seem to imply. In my spare time, you'll find me playing video games and board games with my friends,
-              binge watching a series, making up the most random songs or jingles with my guitar, or looking for the next best place to get
-              some grub.
+              In my spare time, you'll find me playing video games and board games with my friends, binge watching a series,
+              making up the most random songs or jingles with my guitar, or looking for the next best place to get some grub.
             </p>
             <p class="subtitle">
               I enjoy programming in general as it forces me to often think outside the box and encourages me to keep on learning.
-              Ever since I was a child, I've been interested in technology, and due to my early exposure to gaming, I was fascinated with
-              the concept of creating something out of virtually nothing and making money out of it. Selling pixels!
+              Ever since I was younger, I've been interested in technology, and due to my early exposure to gaming, I was fascinated with
+              the concept of creating something out of virtually nothing and making money out of it. <strong>Selling pixels!</strong>
             </p>
             <p class="subtitle">
               It was an eye-opening moment for me, so during grade school I started self-studying and created a game using an app called
@@ -24,10 +22,9 @@
               able to finish it in the end, but it's what got me into programming.
             </p>
             <p class="subtitle">
-              Recently, I find myself wanting to pivot my career towards Product Management. Most of my time and attention is becoming
-              more and more focused on UX and learning more about our users and the business end of things. I'm trying to get a better
-              understanding of how I can bring better value to our customers through research, experimentation, and whatever other means
-              and methods I have at my disposal.
+              Recently, I've decided to pivot my career towards Product Management. A lot of my time and attention is now focused on UX
+              and researching about our users and the business end of things. The thing I find most interesting is understanding user
+              behavior and how it can be influenced by experimenting on loops, funnels and other product features.
             </p>
           </div>
           <div class="column is-half">

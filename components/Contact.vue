@@ -30,7 +30,7 @@
               href="/resume.pdf"
               download="Renzel Manlapaz Resume"
             >
-              Download my resumé
+              Download my resume
             </a>
           </div>
         </div>
