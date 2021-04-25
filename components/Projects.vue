@@ -11,9 +11,9 @@
               I'm currently working as an Associate Product Manager for <a title="Import Genius website" href="https://www.importgenius.com" rel="nofollow">ImportGenius</a>,
               a business intelligence company that leverages import and export data. I began my career as a Full Stack Engineer for the same
               company in January 2018. From there I was given the opportunity to take on lead roles from managing the feature development
-              of the product, to taking on the project of migrating the major pages of the site to a new stack. I was also able to play with our
-              DevOps and data stack, so I was able to build a pretty wide range of skills. I ended up liking having the breadth of knowledge so
-              product &amp; product management came natural for me to pursue.
+              of the product, to taking on the project of migrating the major pages of the site to a new stack. I also worked on tasks deeply
+              involved with our DevOps and data which enabled me to build a wide range of skills. I ended up liking having the breadth of knowledge,
+              so product &amp; product management was the natural course for me to pursue.
             </p>
             <p class="subtitle">
               My primary goal right now as Associate Product Manager is to improve the acquisition and activation process of ImportGenius.
